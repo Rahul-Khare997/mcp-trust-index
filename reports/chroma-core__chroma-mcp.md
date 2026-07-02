@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟩 chroma-core/chroma-mcp — Trust grade **B**
 
-> Model Context Protocol Servers
+> A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/chroma-core/chroma-mcp) · ⭐ 567 · Python · last push 287 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| 🛡️ Security | **50 / 50** |
+| ⚡ Liveness | **28 / 50** |
+| **🏅 Trust** | **78 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
@@ -23,19 +23,20 @@
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- _Nothing missing — full marks._
 
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+22)_
+- ✅ Recently maintained _(+5)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Issue close rate 50% _(+5)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 567 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._

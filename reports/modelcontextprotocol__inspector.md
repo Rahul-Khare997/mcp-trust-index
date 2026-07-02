@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟢 modelcontextprotocol/inspector — Trust grade **A**
 
-> Model Context Protocol Servers
+> Visual testing tool for MCP servers
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/modelcontextprotocol/inspector) · ⭐ 10,245 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| 🛡️ Security | **50 / 50** |
+| ⚡ Liveness | **50 / 50** |
+| **🏅 Trust** | **100 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
@@ -23,19 +23,20 @@
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- _Nothing missing — full marks._
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Issue close rate 73% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 10,245 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._

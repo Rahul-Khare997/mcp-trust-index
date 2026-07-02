@@ -1,17 +1,17 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟢 jlowin/fastmcp — Trust grade **A**
 
-> Model Context Protocol Servers
+> 🚀 The fast, Pythonic way to build MCP servers and clients.
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/PrefectHQ/fastmcp) · ⭐ 25,919 · Python · last push 1 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
+| 🛡️ Security | **50 / 50** |
+| ⚡ Liveness | **42 / 50** |
 | **🏅 Trust** | **92 / 100** → grade **A** |
 
 ### 🛡️ Security signals
@@ -23,22 +23,22 @@
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- _Nothing missing — full marks._
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 25,919 stars _(+6)_
 
 **Missing:**
-- _Nothing missing._
+- ⬜ Issue close rate 0% _(+0 available)_
 
 ---
 

@@ -1,32 +1,32 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟩 neondatabase/mcp-server-neon — Trust grade **B**
 
-> Model Context Protocol Servers
+> MCP server for interacting with Neon Management API and databases
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/neondatabase/mcp-server-neon) · ⭐ 614 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| 🛡️ Security | **36 / 50** |
+| ⚡ Liveness | **45 / 50** |
+| **🏅 Trust** | **81 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
-- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
-- ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
+- ⬜ Provides container/sandbox (Docker/devcontainer) _(+6 available)_
 
 ### ⚡ Liveness signals
 
@@ -35,7 +35,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 70% _(+5)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 614 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._

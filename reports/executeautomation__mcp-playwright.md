@@ -1,24 +1,23 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟡 executeautomation/mcp-playwright — Trust grade **C**
 
-> Model Context Protocol Servers
+> Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/executeautomation/mcp-playwright) · ⭐ 5,566 · TypeScript · last push 201 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| 🛡️ Security | **37 / 50** |
+| ⚡ Liveness | **25 / 50** |
+| **🏅 Trust** | **62 / 100** → grade **C** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
-- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
@@ -26,19 +25,19 @@
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
+- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
 - ⬜ Documents auth / permissions / scopes _(+5 available)_
 
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+22)_
-- ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Recently maintained _(+5)_
+- ✅ Issue close rate 79% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 5,566 stars _(+6)_
 
 **Missing:**
-- _Nothing missing._
+- ⬜ Cuts tagged releases _(+8 available)_
 
 ---
 

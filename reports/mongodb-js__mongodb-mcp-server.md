@@ -1,41 +1,41 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟢 mongodb-js/mongodb-mcp-server — Trust grade **A**
 
-> Model Context Protocol Servers
+> A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/mongodb-js/mongodb-mcp-server) · ⭐ 1,073 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
-| ⚡ Liveness | **47 / 50** |
+| 🛡️ Security | **42 / 50** |
+| ⚡ Liveness | **50 / 50** |
 | **🏅 Trust** | **92 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
-- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Issue close rate 95% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 1,073 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._

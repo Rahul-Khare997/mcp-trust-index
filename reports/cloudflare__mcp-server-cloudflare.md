@@ -1,41 +1,41 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 modelcontextprotocol/servers — Trust grade **A**
+# 🟢 cloudflare/mcp-server-cloudflare — Trust grade **A**
 
-> Model Context Protocol Servers
+> _No description provided._
 
-[🔗 Repository](https://github.com/modelcontextprotocol/servers) · ⭐ 87,949 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/cloudflare/mcp-server-cloudflare) · ⭐ 3,910 · TypeScript · last push 1 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
+| 🛡️ Security | **42 / 50** |
 | ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| **🏅 Trust** | **89 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
-- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
+- ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Documents auth / permissions / scopes _(+5 available)_
+- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Issue close rate 65% _(+5)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 87,949 stars _(+6)_
+- ✅ 3,910 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
