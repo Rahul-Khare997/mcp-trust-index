@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Generated raw dump (large, regenerated each run; the curated data/data.json IS committed)
+data/raw.json
+
+# OS
+.DS_Store

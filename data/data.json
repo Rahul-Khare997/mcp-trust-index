@@ -1,0 +1,122 @@
+{
+  "generated_at": "2026-07-01 17:42 UTC",
+  "methodology_version": "1.0.0",
+  "stats": {
+    "total": 8,
+    "grade_counts": {
+      "A": 2,
+      "B": 1,
+      "C": 1,
+      "D": 3,
+      "F": 1
+    },
+    "graveyards": 2,
+    "avg_score": 61.6
+  },
+  "servers": [
+    {
+      "rank": 1,
+      "slug": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "category": "Reference & SDKs",
+      "grade": "A",
+      "trust_score": 100,
+      "security_score": 50,
+      "liveness_score": 50,
+      "graveyard": false,
+      "stars": 41000,
+      "days_since_push": 6.3
+    },
+    {
+      "rank": 2,
+      "slug": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "category": "Developer tools & platforms",
+      "grade": "A",
+      "trust_score": 92,
+      "security_score": 42,
+      "liveness_score": 50,
+      "graveyard": false,
+      "stars": 12000,
+      "days_since_push": 11.4
+    },
+    {
+      "rank": 3,
+      "slug": "microsoft/playwright-mcp",
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "category": "Developer tools & platforms",
+      "grade": "B",
+      "trust_score": 72,
+      "security_score": 36,
+      "liveness_score": 36,
+      "graveyard": false,
+      "stars": 8000,
+      "days_since_push": 47.2
+    },
+    {
+      "rank": 4,
+      "slug": "example-labs/vector-store-mcp",
+      "url": "https://github.com/example-labs/vector-store-mcp",
+      "category": "Databases & data",
+      "grade": "C",
+      "trust_score": 57,
+      "security_score": 29,
+      "liveness_score": 28,
+      "graveyard": false,
+      "stars": 900,
+      "days_since_push": 122.4
+    },
+    {
+      "rank": 5,
+      "slug": "example-labs/legacy-notes-mcp",
+      "url": "https://github.com/example-labs/legacy-notes-mcp",
+      "category": "Productivity & knowledge",
+      "grade": "D",
+      "trust_score": 43,
+      "security_score": 23,
+      "liveness_score": 20,
+      "graveyard": false,
+      "stars": 300,
+      "days_since_push": 203.4
+    },
+    {
+      "rank": 6,
+      "slug": "example-labs/quickhack-mcp",
+      "url": "https://github.com/example-labs/quickhack-mcp",
+      "category": "Web, search & browsing",
+      "grade": "F",
+      "trust_score": 24,
+      "security_score": 0,
+      "liveness_score": 24,
+      "graveyard": false,
+      "stars": 40,
+      "days_since_push": 11.4
+    },
+    {
+      "rank": 7,
+      "slug": "example-org/archived-mcp",
+      "url": "https://github.com/example-org/archived-mcp",
+      "category": "Databases & data",
+      "grade": "D",
+      "trust_score": 62,
+      "security_score": 36,
+      "liveness_score": 26,
+      "graveyard": true,
+      "stars": 520,
+      "days_since_push": 699.4
+    },
+    {
+      "rank": 8,
+      "slug": "example-labs/abandoned-mcp",
+      "url": "https://github.com/example-labs/abandoned-mcp",
+      "category": "Cloud & infrastructure",
+      "grade": "D",
+      "trust_score": 43,
+      "security_score": 23,
+      "liveness_score": 20,
+      "graveyard": true,
+      "stars": 220,
+      "days_since_push": 542.4
+    }
+  ]
+}

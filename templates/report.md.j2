@@ -1,0 +1,65 @@
+<!-- Auto-generated report card. Do not edit by hand. -->
+
+# {{ r.grade_emoji }} {{ r.slug }} — Trust grade **{{ r.grade }}**{% if r.graveyard %} 🪦 (graveyard: {{ r.graveyard_reason }}){% endif %}
+
+
+> {{ r.description or "_No description provided._" }}
+
+[🔗 Repository]({{ r.url }}) · ⭐ {{ '{:,}'.format(r.stars) }} · {{ r.language or "—" }}{% if r.days_since_push is not none %} · last push {{ r.days_since_push | round(0) | int }} days ago{% endif %}
+
+
+## Score breakdown
+
+| | Score |
+|:--|:--:|
+| 🛡️ Security | **{{ r.security_score }} / 50** |
+| ⚡ Liveness | **{{ r.liveness_score }} / 50** |
+| **🏅 Trust** | **{{ r.trust_score }} / 100** → grade **{{ r.grade }}** |
+
+### 🛡️ Security signals
+
+**Present:**
+{% if r.security_earned %}
+{% for s in r.security_earned %}
+- ✅ {{ s.label }} _(+{{ s.points }})_
+{% endfor %}
+{% else %}
+- _None detected._
+{% endif %}
+
+**Missing (opportunities to raise the grade):**
+{% if r.security_missing %}
+{% for s in r.security_missing %}
+- ⬜ {{ s.label }} _(+{{ s.points }} available)_
+{% endfor %}
+{% else %}
+- _Nothing missing — full marks._
+{% endif %}
+
+### ⚡ Liveness signals
+
+**Present:**
+{% if r.liveness_earned %}
+{% for s in r.liveness_earned %}
+- ✅ {{ s.label }} _(+{{ s.points }})_
+{% endfor %}
+{% else %}
+- _None detected._
+{% endif %}
+
+**Missing:**
+{% if r.liveness_missing %}
+{% for s in r.liveness_missing %}
+- ⬜ {{ s.label }} _(+{{ s.points }} available)_
+{% endfor %}
+{% else %}
+- _Nothing missing._
+{% endif %}
+
+---
+
+## ⚖️ How to read this
+
+This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+<sub>Generated {{ generated_at }} · methodology v{{ methodology_version }} · [← back to the index](../README.md)</sub>

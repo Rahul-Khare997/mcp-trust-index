@@ -1,0 +1,56 @@
+# MCP Trust Index — the source of truth for what gets scored.
+#
+# Add a server: put its "owner/repo" slug under the right category.
+# The weekly bot re-scores everything. Unknown/renamed/deleted repos are
+# skipped with a warning (they never break the build).
+#
+# Keep categories human and slugs alphabetical-ish within a category.
+
+categories:
+  - name: "Reference & SDKs"
+    servers:
+      - modelcontextprotocol/servers
+      - modelcontextprotocol/python-sdk
+      - modelcontextprotocol/typescript-sdk
+      - modelcontextprotocol/inspector
+      - jlowin/fastmcp
+      - punkpeye/fastmcp
+
+  - name: "Developer tools & platforms"
+    servers:
+      - github/github-mcp-server
+      - microsoft/playwright-mcp
+      - executeautomation/mcp-playwright
+      - cloudflare/mcp-server-cloudflare
+      - getsentry/sentry-mcp
+      - grafana/mcp-grafana
+      - stripe/agent-toolkit
+
+  - name: "Databases & data"
+    servers:
+      - supabase-community/supabase-mcp
+      - neondatabase/mcp-server-neon
+      - mongodb-js/mongodb-mcp-server
+      - qdrant/mcp-server-qdrant
+      - chroma-core/chroma-mcp
+      - redis/mcp-redis
+      - elastic/mcp-server-elasticsearch
+
+  - name: "Web, search & browsing"
+    servers:
+      - browserbase/mcp-server-browserbase
+      - mendableai/firecrawl-mcp-server
+      - exa-labs/exa-mcp-server
+      - apify/actors-mcp-server
+      - upstash/context7
+
+  - name: "Productivity & knowledge"
+    servers:
+      - sooperset/mcp-atlassian
+      - makenotion/notion-mcp-server
+      - mem0ai/mem0-mcp
+
+  - name: "Cloud & infrastructure"
+    servers:
+      - awslabs/mcp
+      - googleapis/genai-toolbox
