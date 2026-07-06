@@ -4,15 +4,15 @@
 
 > MCP server for interacting with Neon Management API and databases
 
-[🔗 Repository](https://github.com/neondatabase/mcp-server-neon) · ⭐ 614 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/neondatabase/mcp-server-neon) · ⭐ 617 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **36 / 50** |
-| ⚡ Liveness | **45 / 50** |
-| **🏅 Trust** | **81 / 100** → grade **B** |
+| ⚡ Liveness | **48 / 50** |
+| **🏅 Trust** | **84 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
@@ -33,9 +33,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 70% _(+5)_
+- ✅ Issue close rate 72% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 614 stars _(+4)_
+- ✅ 617 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-02 06:45 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-06 10:00 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

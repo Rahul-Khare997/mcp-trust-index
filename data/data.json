@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 06:45 UTC",
+  "generated_at": "2026-07-06 10:00 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
@@ -11,7 +11,7 @@
       "F": 0
     },
     "graveyards": 1,
-    "avg_score": 87.1
+    "avg_score": 87.2
   },
   "servers": [
     {
@@ -24,8 +24,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 9368,
-      "days_since_push": 0.0
+      "stars": 9398,
+      "days_since_push": 0.3
     },
     {
       "rank": 2,
@@ -37,8 +37,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 31123,
-      "days_since_push": 0.3
+      "stars": 31231,
+      "days_since_push": 0.0
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 34584,
-      "days_since_push": 2.3
+      "stars": 34767,
+      "days_since_push": 6.5
     },
     {
       "rank": 4,
@@ -63,8 +63,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 10245,
-      "days_since_push": 0.2
+      "stars": 10287,
+      "days_since_push": 0.3
     },
     {
       "rank": 5,
@@ -76,8 +76,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 58445,
-      "days_since_push": 0.8
+      "stars": 58651,
+      "days_since_push": 0.1
     },
     {
       "rank": 6,
@@ -89,8 +89,8 @@
       "security_score": 50,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 5486,
-      "days_since_push": 12.1
+      "stars": 5502,
+      "days_since_push": 0.2
     },
     {
       "rank": 7,
@@ -102,8 +102,8 @@
       "security_score": 44,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 12770,
-      "days_since_push": 0.4
+      "stars": 12803,
+      "days_since_push": 0.2
     },
     {
       "rank": 8,
@@ -115,8 +115,8 @@
       "security_score": 44,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 749,
-      "days_since_push": 0.4
+      "stars": 753,
+      "days_since_push": 2.7
     },
     {
       "rank": 9,
@@ -128,8 +128,8 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 15802,
-      "days_since_push": 0.4
+      "stars": 15868,
+      "days_since_push": 2.4
     },
     {
       "rank": 10,
@@ -141,8 +141,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3209,
-      "days_since_push": 0.2
+      "stars": 3215,
+      "days_since_push": 0.1
     },
     {
       "rank": 11,
@@ -154,8 +154,8 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 25919,
-      "days_since_push": 0.7
+      "stars": 25991,
+      "days_since_push": 0.4
     },
     {
       "rank": 12,
@@ -167,8 +167,8 @@
       "security_score": 45,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 87949,
-      "days_since_push": 3.0
+      "stars": 88102,
+      "days_since_push": 1.5
     },
     {
       "rank": 13,
@@ -180,8 +180,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1073,
-      "days_since_push": 0.5
+      "stars": 1076,
+      "days_since_push": 0.0
     },
     {
       "rank": 14,
@@ -194,7 +194,7 @@
       "liveness_score": 48,
       "graveyard": false,
       "stars": 682,
-      "days_since_push": 1.1
+      "days_since_push": 5.3
     },
     {
       "rank": 15,
@@ -206,8 +206,8 @@
       "security_score": 42,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 3910,
-      "days_since_push": 0.7
+      "stars": 3922,
+      "days_since_push": 4.8
     },
     {
       "rank": 16,
@@ -219,8 +219,8 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 23506,
-      "days_since_push": 0.3
+      "stars": 23539,
+      "days_since_push": 3.6
     },
     {
       "rank": 17,
@@ -232,8 +232,8 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 538,
-      "days_since_push": 9.8
+      "stars": 539,
+      "days_since_push": 14.0
     },
     {
       "rank": 18,
@@ -245,8 +245,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 3390,
-      "days_since_push": 0.4
+      "stars": 3394,
+      "days_since_push": 4.6
     },
     {
       "rank": 19,
@@ -258,8 +258,8 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3213,
-      "days_since_push": 9.6
+      "stars": 3217,
+      "days_since_push": 3.2
     },
     {
       "rank": 20,
@@ -271,8 +271,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 1452,
-      "days_since_push": 6.3
+      "stars": 1456,
+      "days_since_push": 10.4
     },
     {
       "rank": 21,
@@ -284,8 +284,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 1510,
-      "days_since_push": 0.0
+      "stars": 1658,
+      "days_since_push": 0.6
     },
     {
       "rank": 22,
@@ -297,8 +297,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4653,
-      "days_since_push": 1.4
+      "stars": 4670,
+      "days_since_push": 3.5
     },
     {
       "rank": 23,
@@ -310,11 +310,24 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4474,
-      "days_since_push": 9.5
+      "stars": 4482,
+      "days_since_push": 13.7
     },
     {
       "rank": 24,
+      "slug": "neondatabase/mcp-server-neon",
+      "url": "https://github.com/neondatabase/mcp-server-neon",
+      "category": "Databases & data",
+      "grade": "B",
+      "trust_score": 84,
+      "security_score": 36,
+      "liveness_score": 48,
+      "graveyard": false,
+      "stars": 617,
+      "days_since_push": 0.3
+    },
+    {
+      "rank": 25,
       "slug": "stripe/agent-toolkit",
       "url": "https://github.com/stripe/ai",
       "category": "Developer tools & platforms",
@@ -323,21 +336,8 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1644,
-      "days_since_push": 0.5
-    },
-    {
-      "rank": 25,
-      "slug": "neondatabase/mcp-server-neon",
-      "url": "https://github.com/neondatabase/mcp-server-neon",
-      "category": "Databases & data",
-      "grade": "B",
-      "trust_score": 81,
-      "security_score": 36,
-      "liveness_score": 45,
-      "graveyard": false,
-      "stars": 614,
-      "days_since_push": 0.5
+      "stars": 1645,
+      "days_since_push": 3.4
     },
     {
       "rank": 26,
@@ -349,8 +349,8 @@
       "security_score": 50,
       "liveness_score": 28,
       "graveyard": false,
-      "stars": 567,
-      "days_since_push": 287.4
+      "stars": 569,
+      "days_since_push": 291.6
     },
     {
       "rank": 27,
@@ -362,8 +362,8 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2778,
-      "days_since_push": 1.5
+      "stars": 2785,
+      "days_since_push": 5.6
     },
     {
       "rank": 28,
@@ -375,8 +375,8 @@
       "security_score": 35,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 6780,
-      "days_since_push": 0.2
+      "stars": 6849,
+      "days_since_push": 2.2
     },
     {
       "rank": 29,
@@ -388,8 +388,8 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5566,
-      "days_since_push": 201.1
+      "stars": 5573,
+      "days_since_push": 205.2
     },
     {
       "rank": 30,
@@ -401,8 +401,8 @@
       "security_score": 16,
       "liveness_score": 28,
       "graveyard": true,
-      "stars": 655,
-      "days_since_push": 99.3
+      "stars": 658,
+      "days_since_push": 103.4
     }
   ]
 }

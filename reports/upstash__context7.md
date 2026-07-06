@@ -4,7 +4,7 @@
 
 > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
-[🔗 Repository](https://github.com/upstash/context7) · ⭐ 58,445 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/upstash/context7) · ⭐ 58,651 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
@@ -36,7 +36,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 99% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 58,445 stars _(+6)_
+- ✅ 58,651 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-02 06:45 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-06 10:00 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
