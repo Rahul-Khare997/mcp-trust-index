@@ -4,7 +4,7 @@
 
 > _No description provided._
 
-[🔗 Repository](https://github.com/elastic/mcp-server-elasticsearch) · ⭐ 682 · Rust · last push 5 days ago
+[🔗 Repository](https://github.com/elastic/mcp-server-elasticsearch) · ⭐ 687 · Rust · last push 3 days ago
 
 ## Score breakdown
 
@@ -35,7 +35,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 93% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 682 stars _(+4)_
+- ✅ 687 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-06 10:00 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-13 08:52 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
