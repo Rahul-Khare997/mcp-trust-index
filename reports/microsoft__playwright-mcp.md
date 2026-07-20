@@ -4,7 +4,7 @@
 
 > Playwright MCP server
 
-[🔗 Repository](https://github.com/microsoft/playwright-mcp) · ⭐ 35,011 · TypeScript · last push 4 days ago
+[🔗 Repository](https://github.com/microsoft/playwright-mcp) · ⭐ 35,277 · TypeScript · last push 5 days ago
 
 ## Score breakdown
 
@@ -34,9 +34,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 100% _(+8)_
+- ✅ Issue close rate 99% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 35,011 stars _(+6)_
+- ✅ 35,277 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-13 08:52 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-20 08:43 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

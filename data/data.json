@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 08:52 UTC",
+  "generated_at": "2026-07-20 08:43 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
@@ -11,24 +11,11 @@
       "F": 0
     },
     "graveyards": 1,
-    "avg_score": 87.5
+    "avg_score": 87.3
   },
   "servers": [
     {
       "rank": 1,
-      "slug": "awslabs/mcp",
-      "url": "https://github.com/awslabs/mcp",
-      "category": "Cloud & infrastructure",
-      "grade": "A",
-      "trust_score": 100,
-      "security_score": 50,
-      "liveness_score": 50,
-      "graveyard": false,
-      "stars": 9436,
-      "days_since_push": 0.1
-    },
-    {
-      "rank": 2,
       "slug": "github/github-mcp-server",
       "url": "https://github.com/github/github-mcp-server",
       "category": "Developer tools & platforms",
@@ -37,11 +24,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 31399,
-      "days_since_push": 2.6
+      "stars": 31573,
+      "days_since_push": 0.8
     },
     {
-      "rank": 3,
+      "rank": 2,
       "slug": "microsoft/playwright-mcp",
       "url": "https://github.com/microsoft/playwright-mcp",
       "category": "Developer tools & platforms",
@@ -50,11 +37,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 35011,
-      "days_since_push": 3.6
+      "stars": 35277,
+      "days_since_push": 5.3
     },
     {
-      "rank": 4,
+      "rank": 3,
       "slug": "modelcontextprotocol/inspector",
       "url": "https://github.com/modelcontextprotocol/inspector",
       "category": "Reference & SDKs",
@@ -63,11 +50,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 10354,
-      "days_since_push": 1.2
+      "stars": 10412,
+      "days_since_push": 0.2
     },
     {
-      "rank": 5,
+      "rank": 4,
       "slug": "sooperset/mcp-atlassian",
       "url": "https://github.com/sooperset/mcp-atlassian",
       "category": "Productivity & knowledge",
@@ -76,11 +63,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 5543,
-      "days_since_push": 0.6
+      "stars": 5585,
+      "days_since_push": 0.4
     },
     {
-      "rank": 6,
+      "rank": 5,
       "slug": "upstash/context7",
       "url": "https://github.com/upstash/context7",
       "category": "Web, search & browsing",
@@ -89,24 +76,24 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 59014,
-      "days_since_push": 2.8
+      "stars": 59460,
+      "days_since_push": 0.0
+    },
+    {
+      "rank": 6,
+      "slug": "awslabs/mcp",
+      "url": "https://github.com/awslabs/mcp",
+      "category": "Cloud & infrastructure",
+      "grade": "A",
+      "trust_score": 97,
+      "security_score": 50,
+      "liveness_score": 47,
+      "graveyard": false,
+      "stars": 9473,
+      "days_since_push": 0.0
     },
     {
       "rank": 7,
-      "slug": "modelcontextprotocol/typescript-sdk",
-      "url": "https://github.com/modelcontextprotocol/typescript-sdk",
-      "category": "Reference & SDKs",
-      "grade": "A",
-      "trust_score": 94,
-      "security_score": 44,
-      "liveness_score": 50,
-      "graveyard": false,
-      "stars": 12839,
-      "days_since_push": 0.2
-    },
-    {
-      "rank": 8,
       "slug": "getsentry/sentry-mcp",
       "url": "https://github.com/getsentry/sentry-mcp",
       "category": "Developer tools & platforms",
@@ -115,11 +102,11 @@
       "security_score": 44,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 769,
-      "days_since_push": 2.3
+      "stars": 782,
+      "days_since_push": 1.7
     },
     {
-      "rank": 9,
+      "rank": 8,
       "slug": "googleapis/genai-toolbox",
       "url": "https://github.com/googleapis/mcp-toolbox",
       "category": "Cloud & infrastructure",
@@ -128,11 +115,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 15944,
+      "stars": 15983,
       "days_since_push": 0.0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "slug": "grafana/mcp-grafana",
       "url": "https://github.com/grafana/mcp-grafana",
       "category": "Developer tools & platforms",
@@ -141,11 +128,11 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3229,
-      "days_since_push": 0.0
+      "stars": 3257,
+      "days_since_push": 0.3
     },
     {
-      "rank": 11,
+      "rank": 10,
       "slug": "jlowin/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "category": "Reference & SDKs",
@@ -154,11 +141,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 26168,
-      "days_since_push": 3.5
+      "stars": 26340,
+      "days_since_push": 0.3
     },
     {
-      "rank": 12,
+      "rank": 11,
       "slug": "modelcontextprotocol/servers",
       "url": "https://github.com/modelcontextprotocol/servers",
       "category": "Reference & SDKs",
@@ -167,11 +154,11 @@
       "security_score": 45,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 88392,
-      "days_since_push": 3.2
+      "stars": 88655,
+      "days_since_push": 10.2
     },
     {
-      "rank": 13,
+      "rank": 12,
       "slug": "mongodb-js/mongodb-mcp-server",
       "url": "https://github.com/mongodb-js/mongodb-mcp-server",
       "category": "Databases & data",
@@ -180,8 +167,21 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1078,
-      "days_since_push": 0.6
+      "stars": 1084,
+      "days_since_push": 0.8
+    },
+    {
+      "rank": 13,
+      "slug": "modelcontextprotocol/typescript-sdk",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+      "category": "Reference & SDKs",
+      "grade": "A",
+      "trust_score": 91,
+      "security_score": 44,
+      "liveness_score": 47,
+      "graveyard": false,
+      "stars": 12899,
+      "days_since_push": 0.1
     },
     {
       "rank": 14,
@@ -193,8 +193,8 @@
       "security_score": 42,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 687,
-      "days_since_push": 3.4
+      "stars": 697,
+      "days_since_push": 0.0
     },
     {
       "rank": 15,
@@ -206,8 +206,8 @@
       "security_score": 42,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 3939,
-      "days_since_push": 11.8
+      "stars": 3963,
+      "days_since_push": 3.7
     },
     {
       "rank": 16,
@@ -219,7 +219,7 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 23596,
+      "stars": 23667,
       "days_since_push": 2.8
     },
     {
@@ -232,8 +232,8 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 545,
-      "days_since_push": 20.9
+      "stars": 548,
+      "days_since_push": 2.8
     },
     {
       "rank": 18,
@@ -245,8 +245,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 3402,
-      "days_since_push": 6.1
+      "stars": 3408,
+      "days_since_push": 13.1
     },
     {
       "rank": 19,
@@ -258,8 +258,8 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3222,
-      "days_since_push": 10.1
+      "stars": 3227,
+      "days_since_push": 2.1
     },
     {
       "rank": 20,
@@ -271,8 +271,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 1461,
-      "days_since_push": 3.4
+      "stars": 1473,
+      "days_since_push": 10.4
     },
     {
       "rank": 21,
@@ -284,7 +284,7 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 1853,
+      "stars": 2066,
       "days_since_push": 0.0
     },
     {
@@ -297,8 +297,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4700,
-      "days_since_push": 0.5
+      "stars": 4746,
+      "days_since_push": 1.6
     },
     {
       "rank": 23,
@@ -310,8 +310,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4522,
-      "days_since_push": 20.6
+      "stars": 4539,
+      "days_since_push": 27.6
     },
     {
       "rank": 24,
@@ -323,8 +323,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 6930,
-      "days_since_push": 1.0
+      "stars": 7000,
+      "days_since_push": 0.5
     },
     {
       "rank": 25,
@@ -336,8 +336,8 @@
       "security_score": 36,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 617,
-      "days_since_push": 7.3
+      "stars": 618,
+      "days_since_push": 0.3
     },
     {
       "rank": 26,
@@ -349,8 +349,8 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1654,
-      "days_since_push": 2.5
+      "stars": 1696,
+      "days_since_push": 2.3
     },
     {
       "rank": 27,
@@ -362,8 +362,8 @@
       "security_score": 50,
       "liveness_score": 28,
       "graveyard": false,
-      "stars": 573,
-      "days_since_push": 298.5
+      "stars": 576,
+      "days_since_push": 305.5
     },
     {
       "rank": 28,
@@ -375,8 +375,8 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2801,
-      "days_since_push": 2.7
+      "stars": 2823,
+      "days_since_push": 2.1
     },
     {
       "rank": 29,
@@ -388,8 +388,8 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5573,
-      "days_since_push": 212.2
+      "stars": 5579,
+      "days_since_push": 219.2
     },
     {
       "rank": 30,
@@ -401,8 +401,8 @@
       "security_score": 16,
       "liveness_score": 28,
       "graveyard": true,
-      "stars": 659,
-      "days_since_push": 110.4
+      "stars": 658,
+      "days_since_push": 117.4
     }
   ]
 }
