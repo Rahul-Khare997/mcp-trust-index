@@ -4,7 +4,7 @@
 
 > Visual testing tool for MCP servers
 
-[🔗 Repository](https://github.com/modelcontextprotocol/inspector) · ⭐ 10,412 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/modelcontextprotocol/inspector) · ⭐ 10,488 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
@@ -34,9 +34,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 77% _(+8)_
+- ✅ Issue close rate 79% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 10,412 stars _(+6)_
+- ✅ 10,488 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-20 08:43 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

@@ -13,9 +13,9 @@ Everyone else ranks MCP servers by *popularity*. We grade them on **security sig
 
 ![servers](https://img.shields.io/badge/servers-30-blue)
 ![avg trust](https://img.shields.io/badge/avg%20trust-87.3%2F100-brightgreen)
-![graveyards](https://img.shields.io/badge/graveyards-1-lightgrey)
+![graveyards](https://img.shields.io/badge/graveyards-2-lightgrey)
 ![methodology](https://img.shields.io/badge/methodology-v1.0.0-informational)
-![updated](https://img.shields.io/badge/updated-2026-07-20-green)
+![updated](https://img.shields.io/badge/updated-2026-07-27-green)
 
 ---
 
@@ -23,12 +23,12 @@ Everyone else ranks MCP servers by *popularity*. We grade them on **security sig
 
 | Grade | Meaning | Count |
 |:-----:|:--------|:-----:|
-| 🟢 **A** | Strong security + actively maintained | 20 |
+| 🟢 **A** | Strong security + actively maintained | 19 |
 | 🟩 **B** | Good hygiene, minor gaps | 8 |
 | 🟡 **C** | Mixed signals — check the report | 1 |
-| 🟠 **D** | Weak signals or aging | 1 |
+| 🟠 **D** | Weak signals or aging | 2 |
 | 🔴 **F** | Missing most safety signals | 0 |
-| 🪦 | **Graveyard** — archived or no commits in >1 year | 1 |
+| 🪦 | **Graveyard** — archived or no commits in >1 year | 2 |
 
 > ⚖️ **Read this first.** Grades are an **automated heuristic over public signals** (license, tests, lockfiles, CI, container, auth docs, commit recency, releases, issue health, adoption). They are **informational, not a security audit**, and *absence of a signal is not an accusation of vulnerability*. A server can be perfectly safe and still score low simply because it doesn't advertise these signals. Maintainers: see [how to improve or dispute a grade](CONTRIBUTING.md). Full rules: [docs/METHODOLOGY.md](docs/METHODOLOGY.md).
 
@@ -46,7 +46,8 @@ Everyone else ranks MCP servers by *popularity*. We grade them on **security sig
 
 Archived or dormant (>1 year) — here be dragons.
 
-- **[mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)** — archived, last push 3 months ago
+- **[browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase)** — archived, last push 0 months ago
+- **[mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)** — archived, last push 4 months ago
 
 ---
 
@@ -58,61 +59,61 @@ _Legend: **Sec** = security /50 · **Live** = liveness /50 · **Trust** = total 
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 1 | 🟢 A | [github/github-mcp-server](https://github.com/github/github-mcp-server) | **100** | 50 | 50 | 31,573 | 0mo | ▲1 | [🔍](reports/github__github-mcp-server.md) |
-| 2 | 🟢 A | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | **100** | 50 | 50 | 35,277 | 0mo | ▲1 | [🔍](reports/microsoft__playwright-mcp.md) |
-| 7 | 🟢 A | [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) | **92** | 44 | 48 | 782 | 0mo | ▲1 | [🔍](reports/getsentry__sentry-mcp.md) |
-| 9 | 🟢 A | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | **92** | 42 | 50 | 3,257 | 0mo | ▲1 | [🔍](reports/grafana__mcp-grafana.md) |
-| 15 | 🟢 A | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | **89** | 42 | 47 | 3,963 | 0mo | — | [🔍](reports/cloudflare__mcp-server-cloudflare.md) |
-| 26 | 🟩 B | [stripe/agent-toolkit](https://github.com/stripe/ai) | **84** | 50 | 34 | 1,696 | 0mo | — | [🔍](reports/stripe__agent-toolkit.md) |
-| 29 | 🟡 C | [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | **62** | 37 | 25 | 5,579 | 7mo | — | [🔍](reports/executeautomation__mcp-playwright.md) |
+| 1 | 🟢 A | [github/github-mcp-server](https://github.com/github/github-mcp-server) | **100** | 50 | 50 | 31,746 | 0mo | — | [🔍](reports/github__github-mcp-server.md) |
+| 2 | 🟢 A | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | **100** | 50 | 50 | 35,526 | 0mo | — | [🔍](reports/microsoft__playwright-mcp.md) |
+| 7 | 🟢 A | [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) | **92** | 44 | 48 | 793 | 0mo | — | [🔍](reports/getsentry__sentry-mcp.md) |
+| 9 | 🟢 A | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | **92** | 42 | 50 | 3,282 | 0mo | — | [🔍](reports/grafana__mcp-grafana.md) |
+| 15 | 🟢 A | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | **89** | 42 | 47 | 3,993 | 0mo | — | [🔍](reports/cloudflare__mcp-server-cloudflare.md) |
+| 25 | 🟩 B | [stripe/agent-toolkit](https://github.com/stripe/ai) | **84** | 50 | 34 | 1,710 | 0mo | ▲1 | [🔍](reports/stripe__agent-toolkit.md) |
+| 28 | 🟡 C | [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | **62** | 37 | 25 | 5,614 | 7mo | ▲1 | [🔍](reports/executeautomation__mcp-playwright.md) |
 
 ### Reference & SDKs
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 3 | 🟢 A | [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | **100** | 50 | 50 | 10,412 | 0mo | ▲1 | [🔍](reports/modelcontextprotocol__inspector.md) |
-| 10 | 🟢 A | [jlowin/fastmcp](https://github.com/PrefectHQ/fastmcp) | **92** | 50 | 42 | 26,340 | 0mo | ▲1 | [🔍](reports/jlowin__fastmcp.md) |
-| 11 | 🟢 A | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | **92** | 45 | 47 | 88,655 | 0mo | ▲1 | [🔍](reports/modelcontextprotocol__servers.md) |
-| 13 | 🟢 A | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | **91** | 44 | 47 | 12,899 | 0mo | ▼6 | [🔍](reports/modelcontextprotocol__typescript-sdk.md) |
-| 16 | 🟢 A | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | **89** | 39 | 50 | 23,667 | 0mo | — | [🔍](reports/modelcontextprotocol__python-sdk.md) |
-| 19 | 🟢 A | [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) | **86** | 36 | 50 | 3,227 | 0mo | — | [🔍](reports/punkpeye__fastmcp.md) |
+| 3 | 🟢 A | [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | **100** | 50 | 50 | 10,488 | 0mo | — | [🔍](reports/modelcontextprotocol__inspector.md) |
+| 10 | 🟢 A | [jlowin/fastmcp](https://github.com/PrefectHQ/fastmcp) | **92** | 50 | 42 | 26,869 | 0mo | — | [🔍](reports/jlowin__fastmcp.md) |
+| 11 | 🟢 A | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | **92** | 45 | 47 | 88,930 | 0mo | — | [🔍](reports/modelcontextprotocol__servers.md) |
+| 13 | 🟢 A | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | **91** | 44 | 47 | 12,954 | 0mo | — | [🔍](reports/modelcontextprotocol__typescript-sdk.md) |
+| 16 | 🟢 A | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | **89** | 39 | 50 | 23,734 | 0mo | — | [🔍](reports/modelcontextprotocol__python-sdk.md) |
+| 18 | 🟢 A | [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) | **86** | 36 | 50 | 3,236 | 0mo | ▲1 | [🔍](reports/punkpeye__fastmcp.md) |
 
 ### Productivity & knowledge
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 4 | 🟢 A | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | **100** | 50 | 50 | 5,585 | 0mo | ▲1 | [🔍](reports/sooperset__mcp-atlassian.md) |
-| 23 | 🟩 B | [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | **84** | 42 | 42 | 4,539 | 0mo | — | [🔍](reports/makenotion__notion-mcp-server.md) |
-| 30 | 🟠 D 🪦 | [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) | **44** | 16 | 28 | 658 | 3mo | — | [🔍](reports/mem0ai__mem0-mcp.md) |
+| 4 | 🟢 A | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | **100** | 50 | 50 | 5,622 | 0mo | — | [🔍](reports/sooperset__mcp-atlassian.md) |
+| 22 | 🟩 B | [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | **84** | 42 | 42 | 4,557 | 0mo | ▲1 | [🔍](reports/makenotion__notion-mcp-server.md) |
+| 30 | 🟠 D 🪦 | [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) | **44** | 16 | 28 | 658 | 4mo | — | [🔍](reports/mem0ai__mem0-mcp.md) |
 
 ### Web, search & browsing
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 5 | 🟢 A | [upstash/context7](https://github.com/upstash/context7) | **100** | 50 | 50 | 59,460 | 0mo | ▲1 | [🔍](reports/upstash__context7.md) |
-| 18 | 🟢 A | [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) | **86** | 42 | 44 | 3,408 | 0mo | — | [🔍](reports/browserbase__mcp-server-browserbase.md) |
-| 21 | 🟩 B | [apify/actors-mcp-server](https://github.com/apify/apify-mcp-server) | **84** | 42 | 42 | 2,066 | 0mo | — | [🔍](reports/apify__actors-mcp-server.md) |
-| 22 | 🟩 B | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | **84** | 42 | 42 | 4,746 | 0mo | — | [🔍](reports/exa-labs__exa-mcp-server.md) |
-| 24 | 🟩 B | [mendableai/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | **84** | 42 | 42 | 7,000 | 0mo | — | [🔍](reports/mendableai__firecrawl-mcp-server.md) |
+| 5 | 🟢 A | [upstash/context7](https://github.com/upstash/context7) | **100** | 50 | 50 | 59,811 | 0mo | — | [🔍](reports/upstash__context7.md) |
+| 20 | 🟩 B | [apify/actors-mcp-server](https://github.com/apify/apify-mcp-server) | **84** | 42 | 42 | 2,271 | 0mo | ▲1 | [🔍](reports/apify__actors-mcp-server.md) |
+| 21 | 🟩 B | [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) | **84** | 42 | 42 | 4,777 | 0mo | ▲1 | [🔍](reports/exa-labs__exa-mcp-server.md) |
+| 23 | 🟩 B | [mendableai/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | **84** | 42 | 42 | 7,052 | 0mo | ▲1 | [🔍](reports/mendableai__firecrawl-mcp-server.md) |
+| 29 | 🟠 D 🪦 | [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) | **86** | 42 | 44 | 3,415 | 0mo | ▼11 | [🔍](reports/browserbase__mcp-server-browserbase.md) |
 
 ### Cloud & infrastructure
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 6 | 🟢 A | [awslabs/mcp](https://github.com/awslabs/mcp) | **97** | 50 | 47 | 9,473 | 0mo | ▼5 | [🔍](reports/awslabs__mcp.md) |
-| 8 | 🟢 A | [googleapis/genai-toolbox](https://github.com/googleapis/mcp-toolbox) | **92** | 50 | 42 | 15,983 | 0mo | ▲1 | [🔍](reports/googleapis__genai-toolbox.md) |
+| 6 | 🟢 A | [awslabs/mcp](https://github.com/awslabs/mcp) | **97** | 50 | 47 | 9,505 | 0mo | — | [🔍](reports/awslabs__mcp.md) |
+| 8 | 🟢 A | [googleapis/genai-toolbox](https://github.com/googleapis/mcp-toolbox) | **92** | 50 | 42 | 16,027 | 0mo | — | [🔍](reports/googleapis__genai-toolbox.md) |
 
 ### Databases & data
 
 | # | Grade | Server | Trust | Sec | Live | ⭐ | Last push | Δ | Report |
 |--:|:-----:|:-------|:-----:|:---:|:----:|--:|:---------:|:--|:------:|
-| 12 | 🟢 A | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | **92** | 42 | 50 | 1,084 | 0mo | ▲1 | [🔍](reports/mongodb-js__mongodb-mcp-server.md) |
-| 14 | 🟢 A | [elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) | **90** | 42 | 48 | 697 | 0mo | — | [🔍](reports/elastic__mcp-server-elasticsearch.md) |
-| 17 | 🟢 A | [redis/mcp-redis](https://github.com/redis/mcp-redis) | **87** | 42 | 45 | 548 | 0mo | — | [🔍](reports/redis__mcp-redis.md) |
-| 20 | 🟢 A | [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | **86** | 42 | 44 | 1,473 | 0mo | — | [🔍](reports/qdrant__mcp-server-qdrant.md) |
-| 25 | 🟩 B | [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) | **84** | 36 | 48 | 618 | 0mo | — | [🔍](reports/neondatabase__mcp-server-neon.md) |
-| 27 | 🟩 B | [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) | **78** | 50 | 28 | 576 | 10mo | — | [🔍](reports/chroma-core__chroma-mcp.md) |
-| 28 | 🟩 B | [supabase-community/supabase-mcp](https://github.com/supabase/mcp) | **78** | 36 | 42 | 2,823 | 0mo | — | [🔍](reports/supabase-community__supabase-mcp.md) |
+| 12 | 🟢 A | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | **92** | 42 | 50 | 1,088 | 0mo | — | [🔍](reports/mongodb-js__mongodb-mcp-server.md) |
+| 14 | 🟢 A | [elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) | **90** | 42 | 48 | 698 | 0mo | — | [🔍](reports/elastic__mcp-server-elasticsearch.md) |
+| 17 | 🟢 A | [redis/mcp-redis](https://github.com/redis/mcp-redis) | **87** | 42 | 45 | 554 | 0mo | — | [🔍](reports/redis__mcp-redis.md) |
+| 19 | 🟢 A | [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | **86** | 42 | 44 | 1,483 | 0mo | ▲1 | [🔍](reports/qdrant__mcp-server-qdrant.md) |
+| 24 | 🟩 B | [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) | **84** | 36 | 48 | 619 | 0mo | ▲1 | [🔍](reports/neondatabase__mcp-server-neon.md) |
+| 26 | 🟩 B | [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) | **78** | 50 | 28 | 578 | 10mo | ▲1 | [🔍](reports/chroma-core__chroma-mcp.md) |
+| 27 | 🟩 B | [supabase-community/supabase-mcp](https://github.com/supabase/mcp) | **78** | 36 | 42 | 2,833 | 0mo | ▲1 | [🔍](reports/supabase-community__supabase-mcp.md) |
 
 ---
 
@@ -134,4 +135,4 @@ Every point is an evidence-based signal. Nothing is hand-tuned per repo. Read th
 
 ---
 
-<sub>🤖 Auto-generated 2026-07-20 08:43 UTC · 30 servers · methodology v1.0.0. This project is not affiliated with Anthropic or the MCP maintainers. Grades are heuristic and informational.</sub>
+<sub>🤖 Auto-generated 2026-07-27 09:34 UTC · 30 servers · methodology v1.0.0. This project is not affiliated with Anthropic or the MCP maintainers. Grades are heuristic and informational.</sub>

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-20 08:43 UTC",
+  "generated_at": "2026-07-27 09:34 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
     "grade_counts": {
-      "A": 20,
+      "A": 19,
       "B": 8,
       "C": 1,
-      "D": 1,
+      "D": 2,
       "F": 0
     },
-    "graveyards": 1,
+    "graveyards": 2,
     "avg_score": 87.3
   },
   "servers": [
@@ -24,8 +24,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 31573,
-      "days_since_push": 0.8
+      "stars": 31746,
+      "days_since_push": 0.0
     },
     {
       "rank": 2,
@@ -37,8 +37,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 35277,
-      "days_since_push": 5.3
+      "stars": 35526,
+      "days_since_push": 2.0
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 10412,
-      "days_since_push": 0.2
+      "stars": 10488,
+      "days_since_push": 0.0
     },
     {
       "rank": 4,
@@ -63,8 +63,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 5585,
-      "days_since_push": 0.4
+      "stars": 5622,
+      "days_since_push": 1.8
     },
     {
       "rank": 5,
@@ -76,8 +76,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 59460,
-      "days_since_push": 0.0
+      "stars": 59811,
+      "days_since_push": 2.2
     },
     {
       "rank": 6,
@@ -89,8 +89,8 @@
       "security_score": 50,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 9473,
-      "days_since_push": 0.0
+      "stars": 9505,
+      "days_since_push": 0.4
     },
     {
       "rank": 7,
@@ -102,8 +102,8 @@
       "security_score": 44,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 782,
-      "days_since_push": 1.7
+      "stars": 793,
+      "days_since_push": 0.3
     },
     {
       "rank": 8,
@@ -115,8 +115,8 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 15983,
-      "days_since_push": 0.0
+      "stars": 16027,
+      "days_since_push": 0.1
     },
     {
       "rank": 9,
@@ -128,8 +128,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3257,
-      "days_since_push": 0.3
+      "stars": 3282,
+      "days_since_push": 0.0
     },
     {
       "rank": 10,
@@ -141,7 +141,7 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 26340,
+      "stars": 26869,
       "days_since_push": 0.3
     },
     {
@@ -154,8 +154,8 @@
       "security_score": 45,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 88655,
-      "days_since_push": 10.2
+      "stars": 88930,
+      "days_since_push": 1.3
     },
     {
       "rank": 12,
@@ -167,8 +167,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1084,
-      "days_since_push": 0.8
+      "stars": 1088,
+      "days_since_push": 0.1
     },
     {
       "rank": 13,
@@ -180,8 +180,8 @@
       "security_score": 44,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 12899,
-      "days_since_push": 0.1
+      "stars": 12954,
+      "days_since_push": 0.7
     },
     {
       "rank": 14,
@@ -193,8 +193,8 @@
       "security_score": 42,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 697,
-      "days_since_push": 0.0
+      "stars": 698,
+      "days_since_push": 5.4
     },
     {
       "rank": 15,
@@ -206,8 +206,8 @@
       "security_score": 42,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 3963,
-      "days_since_push": 3.7
+      "stars": 3993,
+      "days_since_push": 5.6
     },
     {
       "rank": 16,
@@ -219,8 +219,8 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 23667,
-      "days_since_push": 2.8
+      "stars": 23734,
+      "days_since_push": 0.4
     },
     {
       "rank": 17,
@@ -232,24 +232,11 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 548,
-      "days_since_push": 2.8
+      "stars": 554,
+      "days_since_push": 9.9
     },
     {
       "rank": 18,
-      "slug": "browserbase/mcp-server-browserbase",
-      "url": "https://github.com/browserbase/mcp-server-browserbase",
-      "category": "Web, search & browsing",
-      "grade": "A",
-      "trust_score": 86,
-      "security_score": 42,
-      "liveness_score": 44,
-      "graveyard": false,
-      "stars": 3408,
-      "days_since_push": 13.1
-    },
-    {
-      "rank": 19,
       "slug": "punkpeye/fastmcp",
       "url": "https://github.com/punkpeye/fastmcp",
       "category": "Reference & SDKs",
@@ -258,11 +245,11 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3227,
-      "days_since_push": 2.1
+      "stars": 3236,
+      "days_since_push": 1.5
     },
     {
-      "rank": 20,
+      "rank": 19,
       "slug": "qdrant/mcp-server-qdrant",
       "url": "https://github.com/qdrant/mcp-server-qdrant",
       "category": "Databases & data",
@@ -271,11 +258,11 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 1473,
-      "days_since_push": 10.4
+      "stars": 1483,
+      "days_since_push": 3.4
     },
     {
-      "rank": 21,
+      "rank": 20,
       "slug": "apify/actors-mcp-server",
       "url": "https://github.com/apify/apify-mcp-server",
       "category": "Web, search & browsing",
@@ -284,11 +271,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2066,
+      "stars": 2271,
       "days_since_push": 0.0
     },
     {
-      "rank": 22,
+      "rank": 21,
       "slug": "exa-labs/exa-mcp-server",
       "url": "https://github.com/exa-labs/exa-mcp-server",
       "category": "Web, search & browsing",
@@ -297,11 +284,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4746,
-      "days_since_push": 1.6
+      "stars": 4777,
+      "days_since_push": 2.7
     },
     {
-      "rank": 23,
+      "rank": 22,
       "slug": "makenotion/notion-mcp-server",
       "url": "https://github.com/makenotion/notion-mcp-server",
       "category": "Productivity & knowledge",
@@ -310,11 +297,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4539,
-      "days_since_push": 27.6
+      "stars": 4557,
+      "days_since_push": 1.7
     },
     {
-      "rank": 24,
+      "rank": 23,
       "slug": "mendableai/firecrawl-mcp-server",
       "url": "https://github.com/firecrawl/firecrawl-mcp-server",
       "category": "Web, search & browsing",
@@ -323,11 +310,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 7000,
-      "days_since_push": 0.5
+      "stars": 7052,
+      "days_since_push": 0.1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "slug": "neondatabase/mcp-server-neon",
       "url": "https://github.com/neondatabase/mcp-server-neon",
       "category": "Databases & data",
@@ -336,11 +323,11 @@
       "security_score": 36,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 618,
-      "days_since_push": 0.3
+      "stars": 619,
+      "days_since_push": 2.2
     },
     {
-      "rank": 26,
+      "rank": 25,
       "slug": "stripe/agent-toolkit",
       "url": "https://github.com/stripe/ai",
       "category": "Developer tools & platforms",
@@ -349,11 +336,11 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1696,
-      "days_since_push": 2.3
+      "stars": 1710,
+      "days_since_push": 0.7
     },
     {
-      "rank": 27,
+      "rank": 26,
       "slug": "chroma-core/chroma-mcp",
       "url": "https://github.com/chroma-core/chroma-mcp",
       "category": "Databases & data",
@@ -362,11 +349,11 @@
       "security_score": 50,
       "liveness_score": 28,
       "graveyard": false,
-      "stars": 576,
-      "days_since_push": 305.5
+      "stars": 578,
+      "days_since_push": 312.6
     },
     {
-      "rank": 28,
+      "rank": 27,
       "slug": "supabase-community/supabase-mcp",
       "url": "https://github.com/supabase/mcp",
       "category": "Databases & data",
@@ -375,11 +362,11 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2823,
-      "days_since_push": 2.1
+      "stars": 2833,
+      "days_since_push": 2.8
     },
     {
-      "rank": 29,
+      "rank": 28,
       "slug": "executeautomation/mcp-playwright",
       "url": "https://github.com/executeautomation/mcp-playwright",
       "category": "Developer tools & platforms",
@@ -388,8 +375,21 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5579,
-      "days_since_push": 219.2
+      "stars": 5614,
+      "days_since_push": 226.2
+    },
+    {
+      "rank": 29,
+      "slug": "browserbase/mcp-server-browserbase",
+      "url": "https://github.com/browserbase/mcp-server-browserbase",
+      "category": "Web, search & browsing",
+      "grade": "D",
+      "trust_score": 86,
+      "security_score": 42,
+      "liveness_score": 44,
+      "graveyard": true,
+      "stars": 3415,
+      "days_since_push": 6.5
     },
     {
       "rank": 30,
@@ -402,7 +402,7 @@
       "liveness_score": 28,
       "graveyard": true,
       "stars": 658,
-      "days_since_push": 117.4
+      "days_since_push": 124.4
     }
   ]
 }

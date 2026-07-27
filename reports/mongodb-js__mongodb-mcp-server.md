@@ -4,7 +4,7 @@
 
 > A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.
 
-[🔗 Repository](https://github.com/mongodb-js/mongodb-mcp-server) · ⭐ 1,084 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/mongodb-js/mongodb-mcp-server) · ⭐ 1,088 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
@@ -33,9 +33,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 97% _(+8)_
+- ✅ Issue close rate 96% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 1,084 stars _(+6)_
+- ✅ 1,088 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-20 08:43 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

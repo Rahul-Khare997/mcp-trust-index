@@ -4,7 +4,7 @@
 
 > _No description provided._
 
-[🔗 Repository](https://github.com/cloudflare/mcp-server-cloudflare) · ⭐ 3,963 · TypeScript · last push 4 days ago
+[🔗 Repository](https://github.com/cloudflare/mcp-server-cloudflare) · ⭐ 3,993 · TypeScript · last push 6 days ago
 
 ## Score breakdown
 
@@ -33,9 +33,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 64% _(+5)_
+- ✅ Issue close rate 65% _(+5)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 3,963 stars _(+6)_
+- ✅ 3,993 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-20 08:43 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

@@ -4,7 +4,7 @@
 
 > _No description provided._
 
-[🔗 Repository](https://github.com/mem0ai/mem0-mcp) · ⭐ 658 · Python · last push 117 days ago
+[🔗 Repository](https://github.com/mem0ai/mem0-mcp) · ⭐ 658 · Python · last push 124 days ago
 
 ## Score breakdown
 
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-20 08:43 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
