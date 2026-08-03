@@ -4,7 +4,7 @@
 
 > A TypeScript framework for building MCP servers.
 
-[🔗 Repository](https://github.com/punkpeye/fastmcp) · ⭐ 3,236 · TypeScript · last push 2 days ago
+[🔗 Repository](https://github.com/punkpeye/fastmcp) · ⭐ 3,245 · TypeScript · last push 1 days ago
 
 ## Score breakdown
 
@@ -35,7 +35,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 86% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 3,236 stars _(+6)_
+- ✅ 3,245 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-03 09:25 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

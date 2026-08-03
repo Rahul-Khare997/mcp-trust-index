@@ -4,7 +4,7 @@
 
 > Exa MCP for web search and web crawling!
 
-[🔗 Repository](https://github.com/exa-labs/exa-mcp-server) · ⭐ 4,777 · TypeScript · last push 3 days ago
+[🔗 Repository](https://github.com/exa-labs/exa-mcp-server) · ⭐ 4,811 · TypeScript · last push 2 days ago
 
 ## Score breakdown
 
@@ -32,9 +32,9 @@
 
 **Present:**
 - ✅ Recently maintained _(+22)_
-- ✅ Issue close rate 88% _(+8)_
+- ✅ Issue close rate 86% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 4,777 stars _(+6)_
+- ✅ 4,811 stars _(+6)_
 
 **Missing:**
 - ⬜ Cuts tagged releases _(+8 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-07-27 09:34 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-03 09:25 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
