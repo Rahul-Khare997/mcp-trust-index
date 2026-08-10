@@ -4,7 +4,7 @@
 
 > MCP server for Grafana
 
-[🔗 Repository](https://github.com/grafana/mcp-grafana) · ⭐ 3,313 · Go · last push 0 days ago
+[🔗 Repository](https://github.com/grafana/mcp-grafana) · ⭐ 3,330 · Go · last push 0 days ago
 
 ## Score breakdown
 
@@ -35,7 +35,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 73% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 3,313 stars _(+6)_
+- ✅ 3,330 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-03 09:25 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-10 07:14 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
