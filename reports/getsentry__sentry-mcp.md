@@ -4,7 +4,7 @@
 
 > An MCP server for interacting with Sentry via LLMs.
 
-[🔗 Repository](https://github.com/getsentry/sentry-mcp) · ⭐ 809 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/getsentry/sentry-mcp) · ⭐ 819 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
@@ -35,7 +35,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 77% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 809 stars _(+4)_
+- ✅ 819 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-10 07:14 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-17 06:36 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

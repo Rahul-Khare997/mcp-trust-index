@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 07:14 UTC",
+  "generated_at": "2026-08-17 06:36 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
@@ -24,8 +24,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 9578,
-      "days_since_push": 1.6
+      "stars": 9609,
+      "days_since_push": 2.4
     },
     {
       "rank": 2,
@@ -37,8 +37,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 32105,
-      "days_since_push": 2.6
+      "stars": 32295,
+      "days_since_push": 2.3
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 35952,
-      "days_since_push": 0.9
+      "stars": 36190,
+      "days_since_push": 4.4
     },
     {
       "rank": 4,
@@ -63,8 +63,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 5713,
-      "days_since_push": 2.1
+      "stars": 5747,
+      "days_since_push": 0.7
     },
     {
       "rank": 5,
@@ -76,8 +76,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 60516,
-      "days_since_push": 0.0
+      "stars": 60853,
+      "days_since_push": 0.7
     },
     {
       "rank": 6,
@@ -89,8 +89,8 @@
       "security_score": 45,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 10628,
-      "days_since_push": 1.2
+      "stars": 10676,
+      "days_since_push": 0.0
     },
     {
       "rank": 7,
@@ -102,8 +102,8 @@
       "security_score": 45,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 89389,
-      "days_since_push": 0.2
+      "stars": 89613,
+      "days_since_push": 7.2
     },
     {
       "rank": 8,
@@ -115,8 +115,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 4050,
-      "days_since_push": 2.7
+      "stars": 4081,
+      "days_since_push": 5.8
     },
     {
       "rank": 9,
@@ -128,8 +128,8 @@
       "security_score": 44,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 809,
-      "days_since_push": 0.9
+      "stars": 819,
+      "days_since_push": 0.5
     },
     {
       "rank": 10,
@@ -141,7 +141,7 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 16141,
+      "stars": 16184,
       "days_since_push": 0.0
     },
     {
@@ -154,8 +154,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3330,
-      "days_since_push": 0.0
+      "stars": 3361,
+      "days_since_push": 0.2
     },
     {
       "rank": 12,
@@ -167,8 +167,8 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 27144,
-      "days_since_push": 0.2
+      "stars": 27244,
+      "days_since_push": 2.1
     },
     {
       "rank": 13,
@@ -180,8 +180,8 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1095,
-      "days_since_push": 0.9
+      "stars": 1100,
+      "days_since_push": 1.1
     },
     {
       "rank": 14,
@@ -193,8 +193,8 @@
       "security_score": 44,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 13110,
-      "days_since_push": 0.1
+      "stars": 13187,
+      "days_since_push": 0.0
     },
     {
       "rank": 15,
@@ -206,8 +206,8 @@
       "security_score": 42,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 703,
-      "days_since_push": 3.6
+      "stars": 704,
+      "days_since_push": 2.8
     },
     {
       "rank": 16,
@@ -219,8 +219,8 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 23956,
-      "days_since_push": 0.0
+      "stars": 24027,
+      "days_since_push": 0.5
     },
     {
       "rank": 17,
@@ -232,8 +232,8 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 560,
-      "days_since_push": 4.8
+      "stars": 571,
+      "days_since_push": 11.8
     },
     {
       "rank": 18,
@@ -246,7 +246,7 @@
       "liveness_score": 50,
       "graveyard": false,
       "stars": 3249,
-      "days_since_push": 0.3
+      "days_since_push": 0.0
     },
     {
       "rank": 19,
@@ -258,8 +258,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 1494,
-      "days_since_push": 10.3
+      "stars": 1502,
+      "days_since_push": 3.3
     },
     {
       "rank": 20,
@@ -271,8 +271,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 3083,
-      "days_since_push": 0.5
+      "stars": 3910,
+      "days_since_push": 1.0
     },
     {
       "rank": 21,
@@ -284,8 +284,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4584,
-      "days_since_push": 15.6
+      "stars": 4594,
+      "days_since_push": 22.6
     },
     {
       "rank": 22,
@@ -297,8 +297,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 7198,
-      "days_since_push": 1.4
+      "stars": 7252,
+      "days_since_push": 2.3
     },
     {
       "rank": 23,
@@ -310,8 +310,8 @@
       "security_score": 36,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 622,
-      "days_since_push": 0.2
+      "stars": 624,
+      "days_since_push": 0.0
     },
     {
       "rank": 24,
@@ -323,7 +323,7 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1731,
+      "stars": 1748,
       "days_since_push": 2.3
     },
     {
@@ -336,8 +336,8 @@
       "security_score": 50,
       "liveness_score": 28,
       "graveyard": false,
-      "stars": 585,
-      "days_since_push": 326.5
+      "stars": 586,
+      "days_since_push": 333.4
     },
     {
       "rank": 26,
@@ -349,8 +349,8 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4847,
-      "days_since_push": 2.5
+      "stars": 4876,
+      "days_since_push": 0.3
     },
     {
       "rank": 27,
@@ -362,8 +362,8 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2857,
-      "days_since_push": 0.7
+      "stars": 2866,
+      "days_since_push": 2.0
     },
     {
       "rank": 28,
@@ -375,8 +375,8 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5630,
-      "days_since_push": 240.1
+      "stars": 5632,
+      "days_since_push": 247.1
     },
     {
       "rank": 29,
@@ -388,8 +388,8 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": true,
-      "stars": 3416,
-      "days_since_push": 20.4
+      "stars": 3411,
+      "days_since_push": 27.4
     },
     {
       "rank": 30,
@@ -401,8 +401,8 @@
       "security_score": 16,
       "liveness_score": 28,
       "graveyard": true,
-      "stars": 658,
-      "days_since_push": 138.3
+      "stars": 659,
+      "days_since_push": 145.3
     }
   ]
 }

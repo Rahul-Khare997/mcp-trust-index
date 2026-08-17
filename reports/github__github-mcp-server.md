@@ -4,7 +4,7 @@
 
 > GitHub's official MCP Server
 
-[🔗 Repository](https://github.com/github/github-mcp-server) · ⭐ 32,105 · Go · last push 3 days ago
+[🔗 Repository](https://github.com/github/github-mcp-server) · ⭐ 32,295 · Go · last push 2 days ago
 
 ## Score breakdown
 
@@ -36,7 +36,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 82% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 32,105 stars _(+6)_
+- ✅ 32,295 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-10 07:14 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-17 06:36 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
