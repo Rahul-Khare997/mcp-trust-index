@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17 06:36 UTC",
+  "generated_at": "2026-08-24 06:39 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
     "grade_counts": {
-      "A": 19,
-      "B": 8,
+      "A": 20,
+      "B": 7,
       "C": 1,
       "D": 2,
       "F": 0
     },
     "graveyards": 2,
-    "avg_score": 87.2
+    "avg_score": 87.4
   },
   "servers": [
     {
@@ -24,8 +24,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 9609,
-      "days_since_push": 2.4
+      "stars": 9633,
+      "days_since_push": 1.2
     },
     {
       "rank": 2,
@@ -37,8 +37,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 32295,
-      "days_since_push": 2.3
+      "stars": 32461,
+      "days_since_push": 2.5
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 36190,
-      "days_since_push": 4.4
+      "stars": 36409,
+      "days_since_push": 2.3
     },
     {
       "rank": 4,
@@ -63,8 +63,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 5747,
-      "days_since_push": 0.7
+      "stars": 5787,
+      "days_since_push": 3.4
     },
     {
       "rank": 5,
@@ -76,8 +76,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 60853,
-      "days_since_push": 0.7
+      "stars": 61128,
+      "days_since_push": 2.9
     },
     {
       "rank": 6,
@@ -89,8 +89,8 @@
       "security_score": 45,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 10676,
-      "days_since_push": 0.0
+      "stars": 10734,
+      "days_since_push": 0.1
     },
     {
       "rank": 7,
@@ -102,11 +102,24 @@
       "security_score": 45,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 89613,
-      "days_since_push": 7.2
+      "stars": 89814,
+      "days_since_push": 4.2
     },
     {
       "rank": 8,
+      "slug": "apify/actors-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "category": "Web, search & browsing",
+      "grade": "A",
+      "trust_score": 92,
+      "security_score": 50,
+      "liveness_score": 42,
+      "graveyard": false,
+      "stars": 4733,
+      "days_since_push": 0.4
+    },
+    {
+      "rank": 9,
       "slug": "cloudflare/mcp-server-cloudflare",
       "url": "https://github.com/cloudflare/mcp-server-cloudflare",
       "category": "Developer tools & platforms",
@@ -115,11 +128,11 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 4081,
-      "days_since_push": 5.8
+      "stars": 4105,
+      "days_since_push": 1.5
     },
     {
-      "rank": 9,
+      "rank": 10,
       "slug": "getsentry/sentry-mcp",
       "url": "https://github.com/getsentry/sentry-mcp",
       "category": "Developer tools & platforms",
@@ -128,11 +141,11 @@
       "security_score": 44,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 819,
-      "days_since_push": 0.5
+      "stars": 827,
+      "days_since_push": 2.0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "slug": "googleapis/genai-toolbox",
       "url": "https://github.com/googleapis/mcp-toolbox",
       "category": "Cloud & infrastructure",
@@ -141,11 +154,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 16184,
+      "stars": 16245,
       "days_since_push": 0.0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "slug": "grafana/mcp-grafana",
       "url": "https://github.com/grafana/mcp-grafana",
       "category": "Developer tools & platforms",
@@ -154,11 +167,11 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3361,
-      "days_since_push": 0.2
+      "stars": 3382,
+      "days_since_push": 0.4
     },
     {
-      "rank": 12,
+      "rank": 13,
       "slug": "jlowin/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "category": "Reference & SDKs",
@@ -167,11 +180,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 27244,
-      "days_since_push": 2.1
+      "stars": 27350,
+      "days_since_push": 1.4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "slug": "mongodb-js/mongodb-mcp-server",
       "url": "https://github.com/mongodb-js/mongodb-mcp-server",
       "category": "Databases & data",
@@ -180,11 +193,11 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1100,
-      "days_since_push": 1.1
+      "stars": 1106,
+      "days_since_push": 0.4
     },
     {
-      "rank": 14,
+      "rank": 15,
       "slug": "modelcontextprotocol/typescript-sdk",
       "url": "https://github.com/modelcontextprotocol/typescript-sdk",
       "category": "Reference & SDKs",
@@ -193,11 +206,11 @@
       "security_score": 44,
       "liveness_score": 47,
       "graveyard": false,
-      "stars": 13187,
-      "days_since_push": 0.0
+      "stars": 13237,
+      "days_since_push": 0.1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "slug": "elastic/mcp-server-elasticsearch",
       "url": "https://github.com/elastic/mcp-server-elasticsearch",
       "category": "Databases & data",
@@ -206,11 +219,11 @@
       "security_score": 42,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 704,
-      "days_since_push": 2.8
+      "stars": 705,
+      "days_since_push": 3.3
     },
     {
-      "rank": 16,
+      "rank": 17,
       "slug": "modelcontextprotocol/python-sdk",
       "url": "https://github.com/modelcontextprotocol/python-sdk",
       "category": "Reference & SDKs",
@@ -219,11 +232,11 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 24027,
-      "days_since_push": 0.5
+      "stars": 24101,
+      "days_since_push": 2.6
     },
     {
-      "rank": 17,
+      "rank": 18,
       "slug": "redis/mcp-redis",
       "url": "https://github.com/redis/mcp-redis",
       "category": "Databases & data",
@@ -232,11 +245,11 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 571,
-      "days_since_push": 11.8
+      "stars": 599,
+      "days_since_push": 18.8
     },
     {
-      "rank": 18,
+      "rank": 19,
       "slug": "punkpeye/fastmcp",
       "url": "https://github.com/punkpeye/fastmcp",
       "category": "Reference & SDKs",
@@ -245,11 +258,11 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3249,
-      "days_since_push": 0.0
+      "stars": 3253,
+      "days_since_push": 3.1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "slug": "qdrant/mcp-server-qdrant",
       "url": "https://github.com/qdrant/mcp-server-qdrant",
       "category": "Databases & data",
@@ -258,24 +271,24 @@
       "security_score": 42,
       "liveness_score": 44,
       "graveyard": false,
-      "stars": 1502,
-      "days_since_push": 3.3
+      "stars": 1511,
+      "days_since_push": 10.3
     },
     {
-      "rank": 20,
-      "slug": "apify/actors-mcp-server",
-      "url": "https://github.com/apify/apify-mcp-server",
+      "rank": 21,
+      "slug": "exa-labs/exa-mcp-server",
+      "url": "https://github.com/exa-labs/exa-mcp-server",
       "category": "Web, search & browsing",
       "grade": "B",
       "trust_score": 84,
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 3910,
-      "days_since_push": 1.0
+      "stars": 4917,
+      "days_since_push": 3.1
     },
     {
-      "rank": 21,
+      "rank": 22,
       "slug": "makenotion/notion-mcp-server",
       "url": "https://github.com/makenotion/notion-mcp-server",
       "category": "Productivity & knowledge",
@@ -284,11 +297,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4594,
-      "days_since_push": 22.6
+      "stars": 4600,
+      "days_since_push": 29.6
     },
     {
-      "rank": 22,
+      "rank": 23,
       "slug": "mendableai/firecrawl-mcp-server",
       "url": "https://github.com/firecrawl/firecrawl-mcp-server",
       "category": "Web, search & browsing",
@@ -297,11 +310,11 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 7252,
-      "days_since_push": 2.3
+      "stars": 7307,
+      "days_since_push": 2.6
     },
     {
-      "rank": 23,
+      "rank": 24,
       "slug": "neondatabase/mcp-server-neon",
       "url": "https://github.com/neondatabase/mcp-server-neon",
       "category": "Databases & data",
@@ -311,10 +324,10 @@
       "liveness_score": 48,
       "graveyard": false,
       "stars": 624,
-      "days_since_push": 0.0
+      "days_since_push": 0.2
     },
     {
-      "rank": 24,
+      "rank": 25,
       "slug": "stripe/agent-toolkit",
       "url": "https://github.com/stripe/ai",
       "category": "Developer tools & platforms",
@@ -323,37 +336,11 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1748,
-      "days_since_push": 2.3
-    },
-    {
-      "rank": 25,
-      "slug": "chroma-core/chroma-mcp",
-      "url": "https://github.com/chroma-core/chroma-mcp",
-      "category": "Databases & data",
-      "grade": "B",
-      "trust_score": 78,
-      "security_score": 50,
-      "liveness_score": 28,
-      "graveyard": false,
-      "stars": 586,
-      "days_since_push": 333.4
+      "stars": 1760,
+      "days_since_push": 2.1
     },
     {
       "rank": 26,
-      "slug": "exa-labs/exa-mcp-server",
-      "url": "https://github.com/exa-labs/exa-mcp-server",
-      "category": "Web, search & browsing",
-      "grade": "B",
-      "trust_score": 78,
-      "security_score": 36,
-      "liveness_score": 42,
-      "graveyard": false,
-      "stars": 4876,
-      "days_since_push": 0.3
-    },
-    {
-      "rank": 27,
       "slug": "supabase-community/supabase-mcp",
       "url": "https://github.com/supabase/mcp",
       "category": "Databases & data",
@@ -362,8 +349,21 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2866,
+      "stars": 2871,
       "days_since_push": 2.0
+    },
+    {
+      "rank": 27,
+      "slug": "chroma-core/chroma-mcp",
+      "url": "https://github.com/chroma-core/chroma-mcp",
+      "category": "Databases & data",
+      "grade": "B",
+      "trust_score": 75,
+      "security_score": 50,
+      "liveness_score": 25,
+      "graveyard": false,
+      "stars": 587,
+      "days_since_push": 340.4
     },
     {
       "rank": 28,
@@ -375,8 +375,8 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5632,
-      "days_since_push": 247.1
+      "stars": 5633,
+      "days_since_push": 254.1
     },
     {
       "rank": 29,
@@ -384,12 +384,12 @@
       "url": "https://github.com/browserbase/mcp-server-browserbase",
       "category": "Web, search & browsing",
       "grade": "D",
-      "trust_score": 86,
+      "trust_score": 80,
       "security_score": 42,
-      "liveness_score": 44,
+      "liveness_score": 38,
       "graveyard": true,
-      "stars": 3411,
-      "days_since_push": 27.4
+      "stars": 3409,
+      "days_since_push": 34.4
     },
     {
       "rank": 30,
@@ -401,8 +401,8 @@
       "security_score": 16,
       "liveness_score": 28,
       "graveyard": true,
-      "stars": 659,
-      "days_since_push": 145.3
+      "stars": 658,
+      "days_since_push": 152.3
     }
   ]
 }

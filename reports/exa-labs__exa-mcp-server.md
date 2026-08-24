@@ -4,15 +4,15 @@
 
 > Exa MCP for web search and web crawling!
 
-[🔗 Repository](https://github.com/exa-labs/exa-mcp-server) · ⭐ 4,876 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/exa-labs/exa-mcp-server) · ⭐ 4,917 · TypeScript · last push 3 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **36 / 50** |
+| 🛡️ Security | **42 / 50** |
 | ⚡ Liveness | **42 / 50** |
-| **🏅 Trust** | **78 / 100** → grade **B** |
+| **🏅 Trust** | **84 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
@@ -20,21 +20,21 @@
 - ✅ Has an open-source LICENSE _(+5)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
+- ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
 - ✅ Runs CI on every change _(+6)_
 - ✅ Documents auth / permissions / scopes _(+5)_
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
 - ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
-- ⬜ Provides container/sandbox (Docker/devcontainer) _(+6 available)_
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
-- ✅ Issue close rate 85% _(+8)_
+- ✅ Issue close rate 83% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 4,876 stars _(+6)_
+- ✅ 4,917 stars _(+6)_
 
 **Missing:**
 - ⬜ Cuts tagged releases _(+8 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-17 06:36 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-24 06:39 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

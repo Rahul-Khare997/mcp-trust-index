@@ -1,23 +1,24 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟩 apify/actors-mcp-server — Trust grade **B**
+# 🟢 apify/actors-mcp-server — Trust grade **A**
 
 > The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
 
-[🔗 Repository](https://github.com/apify/apify-mcp-server) · ⭐ 3,910 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/apify/apify-mcp-server) · ⭐ 4,733 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **42 / 50** |
+| 🛡️ Security | **50 / 50** |
 | ⚡ Liveness | **42 / 50** |
-| **🏅 Trust** | **84 / 100** → grade **B** |
+| **🏅 Trust** | **92 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
+- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Provides container/sandbox (Docker/devcontainer) _(+6)_
@@ -26,7 +27,7 @@
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
+- _Nothing missing — full marks._
 
 ### ⚡ Liveness signals
 
@@ -34,7 +35,7 @@
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 3,910 stars _(+6)_
+- ✅ 4,733 stars _(+6)_
 
 **Missing:**
 - ⬜ Issue close rate 0% _(+0 available)_
@@ -45,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-17 06:36 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-24 06:39 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
