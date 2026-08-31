@@ -4,15 +4,15 @@
 
 > Official Notion MCP Server
 
-[🔗 Repository](https://github.com/makenotion/notion-mcp-server) · ⭐ 4,600 · TypeScript · last push 30 days ago
+[🔗 Repository](https://github.com/makenotion/notion-mcp-server) · ⭐ 4,617 · TypeScript · last push 37 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **42 / 50** |
-| ⚡ Liveness | **42 / 50** |
-| **🏅 Trust** | **84 / 100** → grade **B** |
+| ⚡ Liveness | **36 / 50** |
+| **🏅 Trust** | **78 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
@@ -31,10 +31,10 @@
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+22)_
+- ✅ Recently maintained _(+16)_
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 4,600 stars _(+6)_
+- ✅ 4,617 stars _(+6)_
 
 **Missing:**
 - ⬜ Issue close rate 27% _(+0 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-24 06:39 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-31 12:14 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

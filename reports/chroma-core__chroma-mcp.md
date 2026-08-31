@@ -4,7 +4,7 @@
 
 > A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma
 
-[🔗 Repository](https://github.com/chroma-core/chroma-mcp) · ⭐ 587 · Python · last push 340 days ago
+[🔗 Repository](https://github.com/chroma-core/chroma-mcp) · ⭐ 588 · Python · last push 348 days ago
 
 ## Score breakdown
 
@@ -34,9 +34,9 @@
 **Present:**
 - ✅ Recently maintained _(+5)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 48% _(+2)_
+- ✅ Issue close rate 47% _(+2)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 587 stars _(+4)_
+- ✅ 588 stars _(+4)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-08-24 06:39 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-08-31 12:14 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
