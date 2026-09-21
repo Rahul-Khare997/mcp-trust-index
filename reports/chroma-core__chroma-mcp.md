@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟩 chroma-core/chroma-mcp — Trust grade **B**
+# 🟠 chroma-core/chroma-mcp — Trust grade **D** 🪦 (graveyard: stale >1y)
 
 > A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma
 
-[🔗 Repository](https://github.com/chroma-core/chroma-mcp) · ⭐ 594 · Python · last push 362 days ago
+[🔗 Repository](https://github.com/chroma-core/chroma-mcp) · ⭐ 597 · Python · last push 369 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **50 / 50** |
-| ⚡ Liveness | **25 / 50** |
-| **🏅 Trust** | **75 / 100** → grade **B** |
+| ⚡ Liveness | **20 / 50** |
+| **🏅 Trust** | **70 / 100** → grade **D** |
 
 ### 🛡️ Security signals
 
@@ -32,14 +32,13 @@
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+5)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 47% _(+2)_
+- ✅ Issue close rate 45% _(+2)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 594 stars _(+4)_
+- ✅ 597 stars _(+4)_
 
 **Missing:**
-- _Nothing missing._
+- ⬜ Recently maintained _(+0 available)_
 
 ---
 
@@ -47,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-14 11:19 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

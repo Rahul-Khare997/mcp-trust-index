@@ -4,7 +4,7 @@
 
 > MCP server for Atlassian tools (Confluence, Jira)
 
-[🔗 Repository](https://github.com/sooperset/mcp-atlassian) · ⭐ 5,893 · Python · last push 1 days ago
+[🔗 Repository](https://github.com/sooperset/mcp-atlassian) · ⭐ 5,927 · Python · last push 2 days ago
 
 ## Score breakdown
 
@@ -36,7 +36,7 @@
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 74% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 5,893 stars _(+6)_
+- ✅ 5,927 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -47,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-14 11:19 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟠 mem0ai/mem0-mcp — Trust grade **D** 🪦 (graveyard: archived)
+# 🔴 mem0ai/mem0-mcp — Trust grade **F** 🪦 (graveyard: archived)
 
 > _No description provided._
 
-[🔗 Repository](https://github.com/mem0ai/mem0-mcp) · ⭐ 661 · Python · last push 174 days ago
+[🔗 Repository](https://github.com/mem0ai/mem0-mcp) · ⭐ 663 · Python · last push 180 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **16 / 50** |
-| ⚡ Liveness | **28 / 50** |
-| **🏅 Trust** | **44 / 100** → grade **D** |
+| ⚡ Liveness | **23 / 50** |
+| **🏅 Trust** | **39 / 100** → grade **F** |
 
 ### 🛡️ Security signals
 
@@ -31,10 +31,10 @@
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+10)_
+- ✅ Recently maintained _(+5)_
 - ✅ Issue close rate 100% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 661 stars _(+4)_
+- ✅ 663 stars _(+4)_
 
 **Missing:**
 - ⬜ Cuts tagged releases _(+8 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-14 11:19 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

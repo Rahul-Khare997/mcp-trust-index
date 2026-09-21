@@ -4,7 +4,7 @@
 
 > Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 
-[🔗 Repository](https://github.com/executeautomation/mcp-playwright) · ⭐ 5,644 · TypeScript · last push 275 days ago
+[🔗 Repository](https://github.com/executeautomation/mcp-playwright) · ⭐ 5,651 · TypeScript · last push 282 days ago
 
 ## Score breakdown
 
@@ -34,7 +34,7 @@
 - ✅ Recently maintained _(+5)_
 - ✅ Issue close rate 78% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 5,644 stars _(+6)_
+- ✅ 5,651 stars _(+6)_
 
 **Missing:**
 - ⬜ Cuts tagged releases _(+8 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-14 11:19 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
