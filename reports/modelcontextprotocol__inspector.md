@@ -4,19 +4,20 @@
 
 > Visual testing tool for MCP servers
 
-[🔗 Repository](https://github.com/modelcontextprotocol/inspector) · ⭐ 10,916 · TypeScript · last push 2 days ago
+[🔗 Repository](https://github.com/modelcontextprotocol/inspector) · ⭐ 10,971 · TypeScript · last push 1 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **45 / 50** |
+| 🛡️ Security | **50 / 50** |
 | ⚡ Liveness | **50 / 50** |
-| **🏅 Trust** | **95 / 100** → grade **A** |
+| **🏅 Trust** | **100 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
 **Present:**
+- ✅ Has an open-source LICENSE _(+5)_
 - ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
@@ -26,16 +27,16 @@
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Has an open-source LICENSE _(+5 available)_
+- _Nothing missing — full marks._
 
 ### ⚡ Liveness signals
 
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 96% _(+8)_
+- ✅ Issue close rate 97% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 10,916 stars _(+6)_
+- ✅ 10,971 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +47,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-28 12:26 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

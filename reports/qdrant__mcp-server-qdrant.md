@@ -4,7 +4,7 @@
 
 > An official Qdrant Model Context Protocol (MCP) server implementation
 
-[🔗 Repository](https://github.com/qdrant/mcp-server-qdrant) · ⭐ 1,533 · Python · last push 18 days ago
+[🔗 Repository](https://github.com/qdrant/mcp-server-qdrant) · ⭐ 1,539 · Python · last push 24 days ago
 
 ## Score breakdown
 
@@ -33,9 +33,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 43% _(+2)_
+- ✅ Issue close rate 42% _(+2)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 1,533 stars _(+6)_
+- ✅ 1,539 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-21 11:31 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-09-28 12:26 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
