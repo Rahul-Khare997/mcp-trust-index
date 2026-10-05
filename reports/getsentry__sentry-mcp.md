@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟢 getsentry/sentry-mcp — Trust grade **A**
+# 🟩 getsentry/sentry-mcp — Trust grade **B**
 
-> An MCP server for interacting with Sentry via LLMs.
+> Agentic tooling for Sentry
 
-[🔗 Repository](https://github.com/getsentry/sentry-mcp) · ⭐ 867 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/getsentry/toolkit) · ⭐ 912 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **44 / 50** |
-| ⚡ Liveness | **48 / 50** |
-| **🏅 Trust** | **92 / 100** → grade **A** |
+| ⚡ Liveness | **40 / 50** |
+| **🏅 Trust** | **84 / 100** → grade **B** |
 
 ### 🛡️ Security signals
 
@@ -33,12 +33,11 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 76% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 867 stars _(+4)_
+- ✅ 912 stars _(+4)_
 
 **Missing:**
-- _Nothing missing._
+- ⬜ Issue close rate 0% _(+0 available)_
 
 ---
 
@@ -46,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-28 12:26 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-10-05 13:06 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

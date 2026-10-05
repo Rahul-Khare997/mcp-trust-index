@@ -4,15 +4,15 @@
 
 > The official TypeScript SDK for Model Context Protocol servers and clients
 
-[🔗 Repository](https://github.com/modelcontextprotocol/typescript-sdk) · ⭐ 13,479 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/modelcontextprotocol/typescript-sdk) · ⭐ 13,519 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **44 / 50** |
-| ⚡ Liveness | **47 / 50** |
-| **🏅 Trust** | **91 / 100** → grade **A** |
+| ⚡ Liveness | **50 / 50** |
+| **🏅 Trust** | **94 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
@@ -33,9 +33,9 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 66% _(+5)_
+- ✅ Issue close rate 74% _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 13,479 stars _(+6)_
+- ✅ 13,519 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-09-28 12:26 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-10-05 13:06 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
