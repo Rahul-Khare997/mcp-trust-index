@@ -4,7 +4,7 @@
 
 > Agentic tooling for Sentry
 
-[🔗 Repository](https://github.com/getsentry/toolkit) · ⭐ 912 · TypeScript · last push 0 days ago
+[🔗 Repository](https://github.com/getsentry/toolkit) · ⭐ 928 · TypeScript · last push 0 days ago
 
 ## Score breakdown
 
@@ -34,7 +34,7 @@
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 912 stars _(+4)_
+- ✅ 928 stars _(+4)_
 
 **Missing:**
 - ⬜ Issue close rate 0% _(+0 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-10-05 13:06 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-10-12 13:58 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
