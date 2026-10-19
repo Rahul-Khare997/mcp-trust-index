@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 13:58 UTC",
+  "generated_at": "2026-10-19 11:39 UTC",
   "methodology_version": "1.0.0",
   "stats": {
     "total": 30,
@@ -11,7 +11,7 @@
       "F": 1
     },
     "graveyards": 3,
-    "avg_score": 86.6
+    "avg_score": 86.1
   },
   "servers": [
     {
@@ -24,8 +24,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 9771,
-      "days_since_push": 2.7
+      "stars": 9794,
+      "days_since_push": 2.6
     },
     {
       "rank": 2,
@@ -37,8 +37,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 33549,
-      "days_since_push": 3.9
+      "stars": 33754,
+      "days_since_push": 3.6
     },
     {
       "rank": 3,
@@ -50,8 +50,8 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 38054,
-      "days_since_push": 3.8
+      "stars": 38360,
+      "days_since_push": 2.5
     },
     {
       "rank": 4,
@@ -63,24 +63,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 11057,
-      "days_since_push": 0.0
+      "stars": 11098,
+      "days_since_push": 5.3
     },
     {
       "rank": 5,
-      "slug": "sooperset/mcp-atlassian",
-      "url": "https://github.com/sooperset/mcp-atlassian",
-      "category": "Productivity & knowledge",
-      "grade": "A",
-      "trust_score": 100,
-      "security_score": 50,
-      "liveness_score": 50,
-      "graveyard": false,
-      "stars": 5987,
-      "days_since_push": 23.2
-    },
-    {
-      "rank": 6,
       "slug": "upstash/context7",
       "url": "https://github.com/upstash/context7",
       "category": "Web, search & browsing",
@@ -89,11 +76,11 @@
       "security_score": 50,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 62930,
-      "days_since_push": 0.0
+      "stars": 63288,
+      "days_since_push": 0.1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "slug": "modelcontextprotocol/servers",
       "url": "https://github.com/modelcontextprotocol/servers",
       "category": "Reference & SDKs",
@@ -102,11 +89,11 @@
       "security_score": 45,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 91168,
-      "days_since_push": 0.4
+      "stars": 91372,
+      "days_since_push": 0.2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "slug": "modelcontextprotocol/typescript-sdk",
       "url": "https://github.com/modelcontextprotocol/typescript-sdk",
       "category": "Reference & SDKs",
@@ -115,11 +102,11 @@
       "security_score": 44,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 13557,
-      "days_since_push": 0.2
+      "stars": 13612,
+      "days_since_push": 0.9
     },
     {
-      "rank": 9,
+      "rank": 8,
       "slug": "apify/actors-mcp-server",
       "url": "https://github.com/apify/apify-mcp-server",
       "category": "Web, search & browsing",
@@ -128,11 +115,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 10739,
-      "days_since_push": 0.0
+      "stars": 11967,
+      "days_since_push": 0.1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "slug": "googleapis/genai-toolbox",
       "url": "https://github.com/googleapis/mcp-toolbox",
       "category": "Cloud & infrastructure",
@@ -141,11 +128,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 16651,
-      "days_since_push": 3.6
+      "stars": 16681,
+      "days_since_push": 2.5
     },
     {
-      "rank": 11,
+      "rank": 10,
       "slug": "grafana/mcp-grafana",
       "url": "https://github.com/grafana/mcp-grafana",
       "category": "Developer tools & platforms",
@@ -154,11 +141,11 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3554,
-      "days_since_push": 0.2
+      "stars": 3573,
+      "days_since_push": 0.0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "slug": "jlowin/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "category": "Reference & SDKs",
@@ -167,11 +154,11 @@
       "security_score": 50,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 28049,
-      "days_since_push": 0.0
+      "stars": 28135,
+      "days_since_push": 0.6
     },
     {
-      "rank": 13,
+      "rank": 12,
       "slug": "mongodb-js/mongodb-mcp-server",
       "url": "https://github.com/mongodb-js/mongodb-mcp-server",
       "category": "Databases & data",
@@ -180,8 +167,21 @@
       "security_score": 42,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 1142,
-      "days_since_push": 0.2
+      "stars": 1144,
+      "days_since_push": 0.6
+    },
+    {
+      "rank": 13,
+      "slug": "sooperset/mcp-atlassian",
+      "url": "https://github.com/sooperset/mcp-atlassian",
+      "category": "Productivity & knowledge",
+      "grade": "A",
+      "trust_score": 91,
+      "security_score": 50,
+      "liveness_score": 41,
+      "graveyard": false,
+      "stars": 6018,
+      "days_since_push": 30.1
     },
     {
       "rank": 14,
@@ -193,8 +193,8 @@
       "security_score": 42,
       "liveness_score": 48,
       "graveyard": false,
-      "stars": 718,
-      "days_since_push": 0.9
+      "stars": 719,
+      "days_since_push": 2.8
     },
     {
       "rank": 15,
@@ -206,8 +206,8 @@
       "security_score": 39,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 24548,
-      "days_since_push": 0.1
+      "stars": 24617,
+      "days_since_push": 1.9
     },
     {
       "rank": 16,
@@ -219,8 +219,8 @@
       "security_score": 42,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 634,
-      "days_since_push": 3.0
+      "stars": 637,
+      "days_since_push": 6.1
     },
     {
       "rank": 17,
@@ -232,8 +232,8 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 4370,
-      "days_since_push": 3.5
+      "stars": 4393,
+      "days_since_push": 10.4
     },
     {
       "rank": 18,
@@ -245,8 +245,8 @@
       "security_score": 36,
       "liveness_score": 50,
       "graveyard": false,
-      "stars": 3273,
-      "days_since_push": 8.5
+      "stars": 3275,
+      "days_since_push": 1.5
     },
     {
       "rank": 19,
@@ -258,8 +258,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 5110,
-      "days_since_push": 4.6
+      "stars": 5138,
+      "days_since_push": 11.5
     },
     {
       "rank": 20,
@@ -271,8 +271,8 @@
       "security_score": 44,
       "liveness_score": 40,
       "graveyard": false,
-      "stars": 928,
-      "days_since_push": 0.1
+      "stars": 933,
+      "days_since_push": 0.0
     },
     {
       "rank": 21,
@@ -284,8 +284,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 4666,
-      "days_since_push": 21.6
+      "stars": 4671,
+      "days_since_push": 28.5
     },
     {
       "rank": 22,
@@ -297,8 +297,8 @@
       "security_score": 42,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 7583,
-      "days_since_push": 0.6
+      "stars": 7635,
+      "days_since_push": 0.0
     },
     {
       "rank": 23,
@@ -310,7 +310,7 @@
       "security_score": 50,
       "liveness_score": 34,
       "graveyard": false,
-      "stars": 1906,
+      "stars": 1963,
       "days_since_push": 0.5
     },
     {
@@ -323,8 +323,8 @@
       "security_score": 36,
       "liveness_score": 45,
       "graveyard": false,
-      "stars": 651,
-      "days_since_push": 7.9
+      "stars": 654,
+      "days_since_push": 3.3
     },
     {
       "rank": 25,
@@ -336,8 +336,8 @@
       "security_score": 42,
       "liveness_score": 38,
       "graveyard": false,
-      "stars": 1547,
-      "days_since_push": 38.6
+      "stars": 1551,
+      "days_since_push": 45.5
     },
     {
       "rank": 26,
@@ -349,8 +349,8 @@
       "security_score": 36,
       "liveness_score": 42,
       "graveyard": false,
-      "stars": 2945,
-      "days_since_push": 0.0
+      "stars": 2961,
+      "days_since_push": 2.2
     },
     {
       "rank": 27,
@@ -362,8 +362,8 @@
       "security_score": 37,
       "liveness_score": 25,
       "graveyard": false,
-      "stars": 5664,
-      "days_since_push": 303.4
+      "stars": 5668,
+      "days_since_push": 310.3
     },
     {
       "rank": 28,
@@ -371,12 +371,12 @@
       "url": "https://github.com/browserbase/mcp-server-browserbase",
       "category": "Web, search & browsing",
       "grade": "D",
-      "trust_score": 80,
+      "trust_score": 74,
       "security_score": 42,
-      "liveness_score": 38,
+      "liveness_score": 32,
       "graveyard": true,
-      "stars": 3402,
-      "days_since_push": 83.7
+      "stars": 3399,
+      "days_since_push": 90.6
     },
     {
       "rank": 29,
@@ -389,7 +389,7 @@
       "liveness_score": 20,
       "graveyard": true,
       "stars": 600,
-      "days_since_push": 389.7
+      "days_since_push": 396.6
     },
     {
       "rank": 30,
@@ -401,8 +401,8 @@
       "security_score": 16,
       "liveness_score": 23,
       "graveyard": true,
-      "stars": 663,
-      "days_since_push": 201.6
+      "stars": 662,
+      "days_since_push": 208.5
     }
   ]
 }

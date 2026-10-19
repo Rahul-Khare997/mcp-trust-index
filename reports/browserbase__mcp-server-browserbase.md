@@ -4,15 +4,15 @@
 
 > Allow LLMs to control a browser with Browserbase and Stagehand
 
-[🔗 Repository](https://github.com/browserbase/mcp-server-browserbase) · ⭐ 3,402 · TypeScript · last push 84 days ago
+[🔗 Repository](https://github.com/browserbase/mcp-server-browserbase) · ⭐ 3,399 · TypeScript · last push 91 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **42 / 50** |
-| ⚡ Liveness | **38 / 50** |
-| **🏅 Trust** | **80 / 100** → grade **D** |
+| ⚡ Liveness | **32 / 50** |
+| **🏅 Trust** | **74 / 100** → grade **D** |
 
 ### 🛡️ Security signals
 
@@ -31,11 +31,11 @@
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+16)_
+- ✅ Recently maintained _(+10)_
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Issue close rate 37% _(+2)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 3,402 stars _(+6)_
+- ✅ 3,399 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-10-12 13:58 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-10-19 11:39 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
