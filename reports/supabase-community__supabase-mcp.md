@@ -1,23 +1,24 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟩 supabase-community/supabase-mcp — Trust grade **B**
+# 🟢 supabase-community/supabase-mcp — Trust grade **A**
 
 > Connect Supabase to your AI assistants
 
-[🔗 Repository](https://github.com/supabase/mcp) · ⭐ 2,971 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/supabase/mcp) · ⭐ 2,991 · TypeScript · last push 2 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
-| 🛡️ Security | **36 / 50** |
+| 🛡️ Security | **44 / 50** |
 | ⚡ Liveness | **42 / 50** |
-| **🏅 Trust** | **78 / 100** → grade **B** |
+| **🏅 Trust** | **86 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
 **Present:**
 - ✅ Has an open-source LICENSE _(+5)_
+- ✅ Publishes a SECURITY.md disclosure policy _(+8)_
 - ✅ Ships an automated test suite _(+7)_
 - ✅ Pins dependencies with a lockfile _(+8)_
 - ✅ Runs CI on every change _(+6)_
@@ -25,7 +26,6 @@
 - ✅ No committed .env secret file _(+5)_
 
 **Missing (opportunities to raise the grade):**
-- ⬜ Publishes a SECURITY.md disclosure policy _(+8 available)_
 - ⬜ Provides container/sandbox (Docker/devcontainer) _(+6 available)_
 
 ### ⚡ Liveness signals
@@ -34,7 +34,7 @@
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 2,971 stars _(+6)_
+- ✅ 2,991 stars _(+6)_
 
 **Missing:**
 - ⬜ Issue close rate 0% _(+0 available)_
@@ -45,4 +45,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-10-26 11:56 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-11-02 14:17 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
