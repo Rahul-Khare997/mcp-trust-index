@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟩 stripe/agent-toolkit — Trust grade **B**
+# 🟢 stripe/agent-toolkit — Trust grade **A**
 
 > One-stop shop for building AI-powered products and businesses with Stripe.
 
-[🔗 Repository](https://github.com/stripe/ai) · ⭐ 2,030 · TypeScript · last push 1 days ago
+[🔗 Repository](https://github.com/stripe/ai) · ⭐ 2,051 · TypeScript · last push 1 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **50 / 50** |
-| ⚡ Liveness | **34 / 50** |
-| **🏅 Trust** | **84 / 100** → grade **B** |
+| ⚡ Liveness | **42 / 50** |
+| **🏅 Trust** | **92 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
@@ -33,11 +33,11 @@
 
 **Present:**
 - ✅ Recently maintained _(+22)_
+- ✅ Cuts tagged releases _(+8)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 2,030 stars _(+6)_
+- ✅ 2,051 stars _(+6)_
 
 **Missing:**
-- ⬜ Cuts tagged releases _(+8 available)_
 - ⬜ Issue close rate 0% _(+0 available)_
 
 ---
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-11-02 14:17 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-11-09 14:45 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>

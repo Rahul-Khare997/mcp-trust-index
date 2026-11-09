@@ -4,7 +4,7 @@
 
 > The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 
-[🔗 Repository](https://github.com/redis/mcp-redis) · ⭐ 641 · Python · last push 7 days ago
+[🔗 Repository](https://github.com/redis/mcp-redis) · ⭐ 641 · Python · last push 6 days ago
 
 ## Score breakdown
 
@@ -33,7 +33,7 @@
 **Present:**
 - ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 82% _(+8)_
+- ✅ Issue close rate 78% _(+8)_
 - ✅ Publishes an installable package _(+6)_
 - ✅ 641 stars _(+4)_
 
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-11-02 14:17 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-11-09 14:45 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
