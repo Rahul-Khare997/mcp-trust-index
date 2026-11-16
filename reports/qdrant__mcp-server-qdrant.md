@@ -1,18 +1,18 @@
 <!-- Auto-generated report card. Do not edit by hand. -->
 
-# 🟩 qdrant/mcp-server-qdrant — Trust grade **B**
+# 🟢 qdrant/mcp-server-qdrant — Trust grade **A**
 
 > An official Qdrant Model Context Protocol (MCP) server implementation
 
-[🔗 Repository](https://github.com/qdrant/mcp-server-qdrant) · ⭐ 1,565 · Python · last push 67 days ago
+[🔗 Repository](https://github.com/qdrant/mcp-server-qdrant) · ⭐ 1,570 · Python · last push 6 days ago
 
 ## Score breakdown
 
 | | Score |
 |:--|:--:|
 | 🛡️ Security | **42 / 50** |
-| ⚡ Liveness | **38 / 50** |
-| **🏅 Trust** | **80 / 100** → grade **B** |
+| ⚡ Liveness | **44 / 50** |
+| **🏅 Trust** | **86 / 100** → grade **A** |
 
 ### 🛡️ Security signals
 
@@ -31,11 +31,11 @@
 ### ⚡ Liveness signals
 
 **Present:**
-- ✅ Recently maintained _(+16)_
+- ✅ Recently maintained _(+22)_
 - ✅ Cuts tagged releases _(+8)_
-- ✅ Issue close rate 40% _(+2)_
+- ✅ Issue close rate 44% _(+2)_
 - ✅ Publishes an installable package _(+6)_
-- ✅ 1,565 stars _(+6)_
+- ✅ 1,570 stars _(+6)_
 
 **Missing:**
 - _Nothing missing._
@@ -46,4 +46,4 @@
 
 This is an **automated heuristic over public GitHub signals**, not a security audit. A missing signal is **not** a vulnerability — it may just mean the project doesn't advertise it. If you maintain this repo and want to improve or dispute the grade, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-<sub>Generated 2026-11-09 14:45 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
+<sub>Generated 2026-11-16 14:21 UTC · methodology v1.0.0 · [← back to the index](../README.md)</sub>
